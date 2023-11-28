@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+    scrollbar-color: rgb(255, 247, 0);
+    scrollbar-width: 50px;
+   
+
+}
+
+.box{
+    writing-mode:sideways-lr;
+    background-color: rgba(255, 174, 0, 0.418);
+    font-family: cursive;
+}
+
+.writeup{
+    text-align:end;
+    color: navy;
+    font-family: cursive;
+}
+
+.tinubu{
+    color:navy;
+    font-family:cursive;
+}
+
+.AL-NASAR{
+    font-family: cursive;
+    text-shadow: 500px;
+    text-decoration: transparent;
+}
+.sportsnews{
+    color: blue;
+    
+    font-family: cursive;
+}
